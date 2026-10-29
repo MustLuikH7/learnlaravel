@@ -11,7 +11,7 @@
 <body>
     <a href="/buttons">BUttons</a>
     <div class="container mx-auto">
-        <div class="bg-blue-500 w-50 h-50"></div>
+        <button class="btn btn-primary">Wow DaisyUI</button>
     </div>
 </body>
 
